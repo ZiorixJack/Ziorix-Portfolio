@@ -1,0 +1,17 @@
+{
+  "name": "ziorix-portfolio",
+  "version": "1.0.0",
+  "description": "Ziorix's personal portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server",
+    "dev": "npx live-server"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "developer"
+  ],
+  "author": "Ziorix",
+  "license": "MIT"
+}
